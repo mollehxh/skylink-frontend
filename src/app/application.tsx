@@ -1,3 +1,9 @@
+import { RegistrationPage } from 'pages/registration';
+
 export const Application = () => {
-  return <div></div>;
+  return (
+    <>
+      <RegistrationPage />
+    </>
+  );
 };
